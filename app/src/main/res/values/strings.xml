@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SLACKMOBILEKOTLIN</string>
+
+    <string name="fullname">OLALEKAN TAIYE AYODEJI</string>
+    <string name="email">olalekanayodeji79@gmail.com</string>
+    <string name="tracks">Tracks:</string>
+    <string name="c">C#</string>
+    <string name="fullnamee">Fullname:</string>
+    <string name="emaill">Email:</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="node_js">Node js</string>
+    <string name="html_css">Html/Css</string>
+    <string name="courses">Courses:</string>
+    <string name="mobile">Mobile</string>
+    <string name="front_end">Front-End</string>
+    <string name="back_end">Back-End</string>
+    <string name="java">Java</string>
+</resources>
